@@ -4,3 +4,15 @@
     margin: 20px;
     padding: 20px;
 }
+
+.btn{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.country-visited{
+    background-color: aquamarine;
+}

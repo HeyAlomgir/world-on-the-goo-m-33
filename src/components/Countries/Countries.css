@@ -3,3 +3,8 @@
     grid-template-columns: repeat(3 , 1fr);
     gap: 30px;
 }
+.ctn img{
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
